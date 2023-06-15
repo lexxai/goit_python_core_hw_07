@@ -2,7 +2,7 @@ from pathlib import Path
 import shutil
 import sys
 import uuid
-from normalize import normalize
+from sortfolders_package.normalize import normalize
 
 
 TYPES = {
